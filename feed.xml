@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>The Moonlit Majlis: History for Sleep</title>
+    <link>https://www.youtube.com/@themoonlitmajlis</link>
+    <atom:link href="https://jammalabuissa-hue.github.io/moonlit-majlis-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>en</language>
+    <copyright>© 2026 The Moonlit Majlis</copyright>
+    <description>Calm, slow history to fall asleep to. Each episode is a gentle, well-researched journey through Arabia, the Silk Road and the Islamic Golden Age: caravans and pearl divers, astronomers and libraries, travellers and traders. Best with the volume low. Narration uses an AI voice (Kokoro); the research and writing are made for this show. New episodes every week.</description>
+    <itunes:author>The Moonlit Majlis</itunes:author>
+    <itunes:summary>Calm, slow history to fall asleep to: Arabia, the Silk Road and the Islamic Golden Age. Narration uses an AI voice; the research and writing are original. New episodes every week.</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>The Moonlit Majlis</itunes:name>
+      <itunes:email>jammalabuissa@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://jammalabuissa-hue.github.io/moonlit-majlis-podcast/cover.jpg"/>
+    <image>
+      <url>https://jammalabuissa-hue.github.io/moonlit-majlis-podcast/cover.jpg</url>
+      <title>The Moonlit Majlis: History for Sleep</title>
+      <link>https://www.youtube.com/@themoonlitmajlis</link>
+    </image>
+    <itunes:category text="History"/>
+    <itunes:category text="Health &amp; Fitness">
+      <itunes:category text="Mental Health"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <!-- EPISODES: new <item> elements are inserted directly below this line, newest first -->
+  </channel>
+</rss>
